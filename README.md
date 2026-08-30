@@ -6,5 +6,5 @@
 
 ## GitHub Stats
 
-![Natalie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nataliesamuels22&show_icons=true)
+![Natalie's GitHub stats](https://vercel.app)
 
